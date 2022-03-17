@@ -42,6 +42,9 @@ ul,li,.a{
     margin-left: 70px ;
     margin-right: 70px;
     flex-direction: column;
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
 .heading{
